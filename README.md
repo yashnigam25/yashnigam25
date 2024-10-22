@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+<!--Data Aspirant specialized in SQL, Power BI and Excel.I turn complex data into actionable business insights and solve problems with innovative data solution.
 **yashnigam25/yashnigam25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
