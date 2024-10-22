@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there , I'm Yash
 
 Data Aspirant specialized in SQL, Power BI and Excel.I turn complex data into actionable business insights and solve problems with innovative data solution.
 
